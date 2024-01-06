@@ -2,6 +2,7 @@
 
 ## Skills
 
+- [C# Specific](./Skills/CSharpSpecific.md)
 - [Programming fundamentals](Skills/Programming.md)
 - [JavaScript](Skills/JavaScript.md)
 - [Asynchronous programming](Skills/Async.md)
