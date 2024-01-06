@@ -1,106 +1,106 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - value: 🙋 explained
+  - identifier: 🙋 explained
+  - variable: 🙋 explained
+  - constant: 🙋 explained
+  - scalar: 🙋 explained
+  - literal: 🙋 explained
+  - expression: 🙋 explained
+  - heap: 🙋 explained
+  - function: 🖐️ used
+  - procedure: 🖐️ used
+  - method: 🖐️ used
+  - class: 🙋 explained
+  - prototype: 🎓 known
+  - event: 🖐️ used
+  - type: 🔬 researched
+  - primitive types: 🔬 researched
+  - reference types: 🔬 researched
+  - flag: 🖐️ used
+  - lexical scope: 🙋 explained
+  - code block: 🙋 explained
+  - conditions: 🙋 explained
+  - loops: 🖐️ used
+  - assignment: 🙋 explained
+  - regular expression: 🖐️ used
+  - interface: 🙋 explained
+  - contract: 🙋 explained
+  - module: 🙋 explained
+  - call stack: 🙋 explained
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
-  - partial application
-  - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
-  - wrapper
-  - functor
-  - monad
-  - monoid
-  - generator
-  - coroutine
+  - signature: 🖐️ used
+  - argument: 🙋 explained
+  - parameter: 🙋 explained
+  - pure function: 🙋 explained
+  - lambda expression: 🖐️ used
+  - side effects: 🙋 explained
+  - closure: 🙋 explained
+  - partial application: 🙋 explained
+  - curry: 🖐️ used
+  - higher order: 🖐️ used
+  - recursion: 🙋 explained
+  - callback: 🖐️ used
+  - listener: 🎓 known
+  - compose: 👂 heard
+  - pipe: 🖐️ used
+  - memoize: 👂 heard
+  - wrapper: 🖐️ used
+  - functor: 👂 heard
+  - monad: 👂 heard
+  - monoid: 🖐️ used
+  - generator: 👂 heard
+  - coroutine: 👂 heard
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
+  - array: 🙋 explained
+  - structure: 🖐️ used
+  - record: 🖐️ used
+  - enum: 🙋 explained
+  - instance: 🙋 explained
+  - object: 🙋 explained
+  - class: 🙋 explained
+  - collection: 🙋 explained
+  - set: 🖐️ used
+  - hash table: 🙋 explained
+  - linked list: 🙋 explained
+  - doubly list: 🙋 explained
+  - unrolled list:
+  - circular list:
+  - queue: 🙋 explained
+  - stack: 🙋 explained
+  - deque: 👂 heard
+  - tree: 🎓 known
+  - graph: 🙋 explained
+  - iterator: 🖐️ used
+  - mutable state: 🙋 explained
+  - immutable state: 🙋 explained
+  - serialization: 🙋 explained
+  - string parsing: 🙋 explained
 - Process & style
-  - compiler
-  - transpiler
-  - linter
-  - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
-  - unittest
-  - git
-  - github
+  - compiler: 🙋 explained
+  - transpiler:
+  - linter: 🖐️ used
+  - polyfill:
+  - debugger: 🙋 explained
+  - garbage collection: 🙋 explained
+  - refactoring: 🙋 explained
+  - code review: 🙋 explained
+  - antipatterns: 🙋 explained
+  - paradigm: 🙋 explained
+  - algorithm: 🙋 explained
+  - magic numbers: 🎓 known
+  - hardcode: 🎓 known
+  - complexity: 🙋 explained
+  - decomposition: 🙋 explained
+  - spaghetti:
+  - silver bullet:
+  - not invented here:
+  - dead code:
+  - unreachable code: 🙋 explained
+  - duplicate code: 🙋 explained
+  - exception: 🎓 known
+  - return early:
+  - unittest: 🖐️ used
+  - git: 🙋 explained
+  - github: 🙋 explained
